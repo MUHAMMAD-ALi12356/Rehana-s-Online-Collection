@@ -1,0 +1,237 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.h5
+{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	text-emphasis: none;
+	color: #ffffff;
+	left: 0px;
+	position: absolute;
+	width: 300px;
+	height: 80px;
+	font-size: 22;
+	font-style: inherit;
+	font-weight: bold;
+}
+body
+{
+	
+	background-image: url(ump.jpg);
+	background-size: cover;
+	background-position: center;
+	box-sizing: border-box;
+}
+.min
+{
+margin:0px;
+padding:0px;
+background-color: #25262F;
+left: 220px;
+position: relative;
+width:900px;
+height:35px
+}
+.iop
+{
+text-align: center;
+width: 300px;
+height: 31px;
+color: #ffffff;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: larger;
+
+}
+
+.menu-bar
+{
+	background-color:#25262F; 
+	text-align: center;
+	border: 1.5px solid rgb(217, 255, 0);
+
+}
+.menu-bar ul
+{
+	display: inline-flex;
+	color: rgb(255, 255, 255);
+	list-style: none;
+
+}
+.menu-bar ul li
+{
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+}
+.menu-bar ul li a
+{
+	color: white;
+	text-decoration-line: none;
+
+}
+.active,.menu-bar ul li:hover
+{
+	color: #7B9182;
+	background-color: #4C5281;
+	border-radius: 2px;
+}
+h1
+{
+	color: white;
+	text-align: center;
+	background-color: black;
+}
+.SLIDEBAR
+{
+	border: 1px solid black;
+	background-color: #25262F;
+	height: 805.5px;
+	width: 260px;
+	left: 0px;
+	position: absolute;
+	text-align: center;
+}
+.dev1
+{
+	/*border: 1px solid rgb(255, 255, 255);*/
+	height: 200px;
+	width: 300px;
+	position: absolute;
+	left: 220px;
+	color: red;
+	text-align: center;
+	line-height:normal;
+
+}
+.dev2
+{
+	/*border: 1px solid rgb(255, 255, 255);*/
+	height: 200px;
+	width: 300px;
+	position: absolute;
+	left: 520px;
+	color:red;
+	text-align:center;
+	line-height:center;
+}
+.dev3
+{
+	/*border: 1px solid rgb(255, 255, 255);*/
+	height: 200px;
+	width: 300px;
+	position: relative;
+	left: 820px;
+	color: red;
+	text-align: center;
+}
+.conus
+{
+ border: 1px rgb(137, 206, 0);
+ width: 600px;
+ height: 260px;
+ left: 500px;
+ position: relative;
+ vertical-align: middle;
+}
+.contus
+{
+	
+	width: 150px;
+	height: 50px;
+	position: absolute;
+	left: 0px;
+	color: yellowgreen;
+	background-color: ghostwhite;
+	opacity: 0.8;
+	text-align: center;
+	font-weight: bold;
+	font-style: oblique;
+	line-height: all;
+}
+.contus1
+{
+	width: 450px;
+	height: 50px;
+	position: relative;
+	left: 150px;
+	color: yellowgreen;
+	background-color: black;
+	opacity: 1;
+	text-align: center;
+	text-decoration-style: double;
+}
+.h2
+{
+	text-align: center;
+	text-align-last: center;
+}
+.SIDEBAR
+{
+  border: 1px solid white;
+  color: white;
+  margin: 0px;
+  padding: 50px;
+
+}
+.a
+{
+	text-decoration-line: none;
+	color: white;
+}
+.paragraph
+{
+	border: 1px solid red;
+	color: rebeccapurple;
+	font-weight: bolder;
+	width: 1085px;
+	height: 100%;
+	position: relative;
+	left: 261px;
+	text-align-last: justify;
+}
+.foll
+{
+	border: 1px solid #25262F;
+	color: #ffffff;
+	background-color: #1c1d27;
+	text-align: center;
+	text-align-last: center;
+}
+.icons
+{
+	position: relative;
+	left: 1000px;
+	color: white;
+	border-image: auto;
+	border: 1.5px solid rgb(238, 255, 7);
+	background-color: #1c1d27;
+	box-sizing: border-box;
+	border-style: ridge;
+}
+.lorem
+{
+color: #ffffff;
+text-align: center;
+background-color: #25262F;
+font-size: larger;
+font-style: inherit;
+border: 1.5px solid rgb(251, 255, 2);
+}
+.maq
+{
+color: #ffffff;
+font-size: xx-large;
+text-align: center;
+transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+font-style: initial;
+text-rendering: optimizeLegibility;
+
+}
+.invisible
+{
+	height: 20px;
+}
